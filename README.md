@@ -32,6 +32,7 @@ GUI application development in Python
 Event handling and timing mechanisms
 
 Basic performance measurement logic
+
 **🔹 How It Works**
 
 A random word is displayed on the screen
